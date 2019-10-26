@@ -1,0 +1,133 @@
+@media screen and (max-width : 1024px) {
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width : 768px) { 
+
+
+
+.header__form__input{
+
+	padding-left: 9%;
+    width: 306px;
+    height: 60px;
+    padding-right: 50px;
+    margin-left: 3%;
+
+}
+
+.header__form__button {
+
+	margin-left: -132px;
+}
+
+.hero__content__title {
+    font-size: 17pt;
+    color: #FFF;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 10%;
+    }
+
+    .hero__content__description {
+    color: #FFF;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.hero__images__first {
+    width: 90%;
+    margin-bottom: 5%;
+}
+
+.hero__content__button {
+    width: 181px;
+    height: 40px;
+    font-size: 17px;
+    margin-left: 91%;
+    margin-top: 58%;
+}
+
+.hero__images__second {
+    margin-left: 0%;
+    width: 90%;
+}
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	@media screen and (max-width : 480px) {
+
+		.header__title{
+
+			font-size: 30pt;
+		}
+
+		.header__description {
+
+			font-size: 21pt;
+		}
+
+		.header__form__input {
+
+			padding-left: 9%;
+    		width: 108px;
+		    height: 60px;
+		    padding-right: 70px;
+		    margin-left: 10%;
+		}
+
+		.header__form__button {
+		    position: relative;
+		    margin-left: -38%;
+		    height: 50px;
+		    width: 102px;
+		  }
+
+		  .header__form__button img{
+
+		  	display: none;
+		  }
+
+
+
+	}
+
+
+
